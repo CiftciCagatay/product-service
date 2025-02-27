@@ -1,0 +1,22 @@
+{
+  "name": "product-service",
+  "version": "1.0.0",
+  "description": "Example NodeJS backend application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiftciCagatay/product-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiftciCagatay/product-service/issues"
+  },
+  "homepage": "https://github.com/CiftciCagatay/product-service#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
